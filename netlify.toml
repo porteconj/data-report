@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "    hugo mod get -u && hugo --baseURL $URL --gc"
+command = "hugo mod get -u && hugo --baseURL $URL --gc"
 
 [context.production.environment]
 HUGO_VERSION = "0.68.1"
