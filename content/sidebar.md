@@ -16,6 +16,6 @@ blogCurator:
   name: Paulo Guimarães
   description: "\nFields of study: \nAnalysis of Large Data Sets\nApplied microeconometrics\n"
   links: []
-logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585913410/research_report/perr_logo_j8egle.svg
+logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586460340/data_report/pedr_bxnwzg.svg
 
 ---
