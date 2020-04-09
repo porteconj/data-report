@@ -13,13 +13,9 @@ sidebarLinks:
   title: Journal Website
 blogCurator:
   picture: "/v1585074958/research_report/rui_zarg8m.jpg"
-  name: Rui Alburquerque
-  description: This page is curated by Professor Rui Alburquerque, currently teaching
-    and researching at Boston College. His main research interests are in asset pricing
-    and corporate governance.
-  links:
-  - title: Personal website
-    link: https://ruialbuquerque.webs.com/
+  name: Paulo Guimarães
+  description: "\nFields of study: \nAnalysis of Large Data Sets\nApplied microeconometrics\n"
+  links: []
 logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1585913410/research_report/perr_logo_j8egle.svg
 
 ---
