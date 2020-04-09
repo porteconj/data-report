@@ -1,9 +1,8 @@
 ---
 title: Portuguese Economy Data Report
-blogInfo: 'This forum is dedicated to research on the Portuguese Economy. All scientific
-  research on the Portuguese economy is welcome, namely research produced in the context
-  of Master’s dissertations, PhD thesis, or that circulates as working papers, as
-  well as published work (articles, chapters, and books). '
+blogInfo: This forum is dedicated to data for the Portuguese Economy. All economic
+  data sets on the Portuguese economy are welcome, from publicly available platforms
+  to original data collected by researchers.
 sidebarLinks:
 - title: Send your contribution
   url: mailto:discussionspej@gmail.com
