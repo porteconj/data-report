@@ -12,7 +12,7 @@ sidebarLinks:
 - url: http://pej.pt
   title: Journal Website
 blogCurator:
-  picture: "/v1585074958/research_report/rui_zarg8m.jpg"
+  picture: https://res.cloudinary.com/portuguese-economic-journal/image/upload/pguimaraes.jpg
   name: Paulo Guimarães
   description: "\nFields of study: \nAnalysis of Large Data Sets\nApplied microeconometrics\n"
   links: []
