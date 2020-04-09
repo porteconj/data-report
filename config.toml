@@ -1,0 +1,34 @@
+title = "Portuguese Economy Research Report"
+description = "A blog on ongoing research on the Portuguese economy"
+baseURL = "/"
+
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+
+[params]
+cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload"
+cloudinaryPath = "research_report"
+twitter = "@porteconj"
+sitename = "Portuguese Economy Research Report"
+seoImage = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586458023/research_report/ograph_jf38qz.png"
+
+[module]
+[[module.imports]]
+disable = false
+path = "github.com/porteconj/pej_blog_theme"
+
+
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "layouts"
+target = "layouts"
+
+
+

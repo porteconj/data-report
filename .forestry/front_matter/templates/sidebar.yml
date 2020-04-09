@@ -1,0 +1,79 @@
+---
+label: Sidebar
+hide_body: true
+display_field: title
+fields:
+- name: logo
+  type: file
+  config:
+    maxSize: '2'
+  label: logo
+- type: text
+  name: title
+  label: title
+- name: blogInfo
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Blog Information
+- type: field_group_list
+  name: sidebarLinks
+  label: Sidebar Links
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: url
+    label: url
+  description: The links to other parts of PEJ that are displayed in the blog sidebar
+  config:
+    labelField: title
+- name: blogCurator
+  type: field_group
+  config: {}
+  fields:
+  - name: picture
+    type: file
+    config:
+      maxSize: '3'
+    label: Picture
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+  - name: links
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Links
+  label: Blog Curator
+pages:
+- content/sidebar.md
