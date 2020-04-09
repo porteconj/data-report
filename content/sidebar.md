@@ -12,10 +12,17 @@ sidebarLinks:
 - url: http://pej.pt
   title: Journal Website
 blogCurator:
-  picture: /v1586460128/data_report/pguimaraes_persp1.jpg
+  picture: "/v1586460128/data_report/pguimaraes_persp1.jpg"
   name: Paulo Guimarães
-  description: "\nFields of study: \nAnalysis of Large Data Sets\nApplied microeconometrics\n"
-  links: []
+  description: 'This page is curated by Professor Paulo Guimaraes, currently a Deputy
+    Head of the Economics and Research Department at Banco de Portugal, and teaching
+    at Universidade do Porto. His main research interests are in the analysis of large
+    data sets and in applied microeconometrics.
+
+'
+  links:
+  - title: Institutional website
+    link: https://www.bportugal.pt/en/economista/paulo-guimaraes
 logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586460340/data_report/pedr_bxnwzg.svg
 
 ---
