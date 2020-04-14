@@ -11,17 +11,12 @@ sidebarLinks:
 - url: http://pej.pt
   title: Journal Website
 blogCurator:
-  picture: "/v1586460128/data_report/pguimaraes_persp1.jpg"
-  name: Paulo Guimarães
-  description: 'This page is curated by Professor Paulo Guimaraes, currently a Deputy
-    Head of the Economics and Research Department at Banco de Portugal, and teaching
-    at Universidade do Porto. His main research interests are in the analysis of large
-    data sets and in applied microeconometrics.
-
-'
+  picture: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586856175/data_report/23052016-_DSC0128_main_x4t4rs.jpg
+  name: Miguel Portela
+  description: "\n"
   links:
   - title: Institutional website
-    link: https://www.bportugal.pt/en/economista/paulo-guimaraes
+    link: http://www1.eeg.uminho.pt/economia/mangelo/
 logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586460340/data_report/pedr_bxnwzg.svg
 
 ---
