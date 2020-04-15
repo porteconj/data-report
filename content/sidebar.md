@@ -11,7 +11,7 @@ sidebarLinks:
 - url: http://pej.pt
   title: Journal Website
 blogCurator:
-  picture: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586856175/data_report/23052016-_DSC0128_main_x4t4rs.jpg
+  picture: /v1586856175/data_report/23052016-_DSC0128_main_x4t4rs.jpg
   name: Miguel Portela
   description: "\n"
   links:
