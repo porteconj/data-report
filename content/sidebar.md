@@ -15,7 +15,7 @@ blogCurator:
   name: Miguel Portela
   description: |2-
 
-    This page is curated by Professor Miguel Portela, currently teaching and researching at University of Minho. His main research interests are in labou economics, economics of education, and applied econometrics.
+    This page is curated by Professor Miguel Portela, currently teaching and researching at University of Minho. His main research interests are in labour economics, economics of education, and applied econometrics.
   links:
   - title: Personal website
     link: http://www1.eeg.uminho.pt/economia/mangelo/
