@@ -5,9 +5,14 @@ baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
+
+
 
 [params]
 cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload"
@@ -15,6 +20,9 @@ cloudinaryPath = "research_report"
 twitter = "@porteconj"
 sitename = "Portuguese Economy Research Report"
 seoImage = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586458023/research_report/ograph_jf38qz.png"
+footerText = "This blog is an initiave of the Portugese Economic Journal. The forum runs independently from the Portuguese Economic Journal (PEJ) and posts published on the blog have no obligation or right towards the journal. The forum is not affiliated with any religion, political parties and ideologies. Participants are responsible for opinions expressed therein."
+
+
 
 [module]
 [[module.imports]]
