@@ -41,3 +41,14 @@ target = "layouts"
 
 
 
+[outputFormats]
+[outputFormats.HTML]
+mediaType = "text/html"
+[outputFormats.card]
+mediaType = "text/html"
+path = "card"
+permalinkable = true
+
+[outputs]
+  home = ["HTML", "json"]
+  page = ["HTML", "card"]
