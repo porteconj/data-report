@@ -1,0 +1,14 @@
++++
+author = ""
+date = 2020-05-28T23:00:00Z
+draft = true
+subtitle = ""
+title = "Access to statistical microdata through INE"
+type = "post"
+
++++
+A protocol signed between Statistics Portugal (Instituto Nacional de Estatística - INE), the _Fundação para Ciência e Tecnologia_ (FCT) and the _Direção-Geral de Estatísticas da Educação e Ciência do Ministério da Ciência, Tecnologia e Ensino Superior_ (DGEEC-MCTES) gives researchers access to a collection of microdata sets for Portugal. The data includes detailed information on households, workers and firms, allowing in many cases for the construction of longitudinal data. The information released under this protocol is a fundamental for the understanding of the Portuguese society and economy and for the design of effective public policies. For more information on how to access the data, see the link below.
+
+As an example of the type of data, one can highlight a longitudinal dataset that has been widely used in research published in peer reviewed journals. Namely, Personnel Records (Quadros de Pessoal – QP). This is a yearly matched employer–employee dataset gathered by the Portuguese Ministry of Employment, based on a written inquiry that every company with wage-earners is legally obliged to complete. Public administration and domestic service are not covered, and the coverage of agriculture is low, given its low share of wage-earners. For the remaining sectors, however, the mandatory nature of the survey leads to an extremely high response rate. Each year, around two million workers and 100,000 to 200,000 companies are covered. Data from 1986 to 2017 is available. Data are available on each establishment (location, economic activity, and employment), the firm with which it is affiliated (location, economic activity, employment, sales, and legal framework), and each and every one of its workers (gender, age, education, skill, occupation, tenure, earnings, and the work schedule). The information on earnings is very detailed, precise, and complete. It includes the base wage (gross pay for normal hours of work), regular benefits, irregular benefits, and overtime pay. Information on standard and overtime hours of work is also available. Because the information on earnings is reported by the employer, it is likely to be subject to less measurement error than worker-provided earnings data. Anonymized worker and firm identification codes enables tracking individuals and firms over time.
+
+LINK to the protocol DGEEC/INE: [https://www.dgeec.mec.pt/np4/46/](https://www.dgeec.mec.pt/np4/46/ "https://www.dgeec.mec.pt/np4/46/")
