@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2020-05-28T23:00:00Z
-draft = true
 subtitle = ""
 title = "Purpose of this project"
 type = "post"
