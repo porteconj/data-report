@@ -1,0 +1,10 @@
++++
+author = ""
+date = 2020-09-20T23:00:00Z
+draft = true
+subtitle = ""
+title = "Banco de Portugal Microdata Research Laboratory - BPLIM"
+type = "post"
+
++++
+The ability to collect and accumulate microdata has been a powerful function of central banks. In the scientific community, an increasing amount of research has been conducted using micro-level information. To enhance collaborations between central banks and researchers, an advanced data sharing platform is essential. The Banco de Portugal Microdata Research Laboratory (BPLIM) (Laboratório de Investigação em Microdados do Banco de Portugal) has been created to facilitate scientific research effort that makes use of microdata. By strongly reducing data access barriers, BPLIM aims to inspire research that effectively utilize the Portuguese administrative micro datasets and contribute to our understanding of the economic and financial challenges of our time. BPLIM started in 2016 and counts 110 research projects involving more than 30 institutions. Available data includes Central Credit Responsibility (CRC) and Central Balance Sheet (CB). Remote access is a major feature of BPLIM. A powerful server running major statistical packages, including Julia, R and Python, is available to researchers. The interaction with the community also includes the organization of regular training sessions and workshops on up-to-date topics (e.g., reproducible research and big data). The coding tools developed for the available data are shared using the platform GitHub ([https://github.com/BPLIM](https://github.com/BPLIM "https://github.com/BPLIM")). You can find further information on the project here: [https://bplim.bportugal.pt/](https://bplim.bportugal.pt/ "https://bplim.bportugal.pt/").
