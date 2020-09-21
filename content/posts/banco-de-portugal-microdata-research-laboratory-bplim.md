@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2020-09-20T23:00:00Z
-draft = true
 subtitle = ""
 title = "Banco de Portugal Microdata Research Laboratory - BPLIM"
 type = "post"
