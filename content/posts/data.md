@@ -1,6 +1,6 @@
 +++
 author = ""
-date = ""
+date = 2020-10-24T23:00:00Z
 subtitle = ""
 title = "Data for Portugal’s per capita GDP for 1527–1850"
 type = "post"
