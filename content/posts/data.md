@@ -3,7 +3,7 @@ author = ""
 date = ""
 draft = true
 subtitle = ""
-title = "Data on Portugal’s per capita GDP for 1527–1850"
+title = "Data for Portugal’s per capita GDP for 1527–1850"
 type = "post"
 
 +++
