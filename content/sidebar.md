@@ -19,6 +19,8 @@ blogCurator:
   links:
   - title: Personal website
     link: http://www1.eeg.uminho.pt/economia/mangelo/
-logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1586460340/data_report/pedr_bxnwzg.svg
+logo: https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1603646614/data_report/pedr_glchv8.svg
+
+
 
 ---
