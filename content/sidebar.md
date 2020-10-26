@@ -10,10 +10,13 @@ sidebarLinks:
   url: https://docs.google.com/forms/d/e/1FAIpQLSf_XBpr7klTMwn_OR9aSNWFfmP9m663cqitoLqXwTidfNY9jQ/viewform
 - url: http://pej.pt
   title: Journal Website
-blogCurator:
+
+
+blogCurators:
+- name: Miguel Portela
+  title: Principal curator
+  bio: This page is curated by Professor Miguel Portela, currently teaching and researching at University of Minho. His main research interests are in labour economics, economics of education, and applied econometrics.
   picture: "/v1586856175/data_report/23052016-_DSC0128_main_x4t4rs.jpg"
-  name: Miguel Portela
-  description: This page is curated by Professor Miguel Portela, currently teaching and researching at University of Minho. His main research interests are in labour economics, economics of education, and applied econometrics.
   links:
   - title: Personal website
     link: http://www1.eeg.uminho.pt/economia/mangelo/
