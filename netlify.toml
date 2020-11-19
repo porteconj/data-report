@@ -3,6 +3,21 @@ publish = "public"
 command = "hugo mod get -u && hugo --baseURL $URL --gc"
 
 [context.production.environment]
-HUGO_VERSION = "0.68.1"
+HUGO_VERSION = "0.75.1"
 HUGO_ENV = "production"
 GO_VERSION = "1.14"
+
+
+[[plugins]]
+  package = "netlify-plugin-fetch-feeds"
+
+  [plugins.inputs]
+    # Where should data files reside
+    dataDir = "data"
+
+    # All the feeds we wish to gather for use in the build
+
+    [[plugins.inputs.feeds]]
+      name = "analytics"
+      url = "https://pedr-analytics.netlify.app/.netlify/functions/fetch"
+      ttl = 3600
