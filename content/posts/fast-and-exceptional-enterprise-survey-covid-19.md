@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2021-06-06T23:00:00Z
-draft = true
 subtitle = ""
 title = "Fast and Exceptional Enterprise Survey - COVID-19"
 type = "post"
