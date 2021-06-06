@@ -1,56 +1,38 @@
-title = "Portuguese Economy Data Report"
-description = "A blog dedicated to available data on the Portuguese economy"
-baseURL = "/"
-
-languageCode = "en-us"
 DefaultContentLanguage = "en"
-
-[permalinks]
-  posts = "/:year/:month/:title/"
-
-enableGitInfo = true
-enableRobotsTXT = true
-canonifyURLs = true
-
-
-
-[params]
-cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload"
-cloudinaryPath = "research_report"
-twitter = "@porteconj"
-sitename = "Portuguese Economy Data Report"
-seoImage = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1590755795/pedr_ograph_rp6oqk.png"
-footerText = "This blog is an initiative of the Portuguese Economic Journal. The forum runs independently from the Portuguese Economic Journal (PEJ), and posts published on the blog have no obligation or right towards the journal. The forum is not affiliated with any religion, political parties and ideologies. Participants are responsible for opinions expressed therein."
-analyticsID = "UA-81134426-3"
-netlifyFetch = "https://pedr-analytics.netlify.app/.netlify/functions/fetch"
-seoImagePath = "https://pedr-preview.netlify.app/img/"
-
-
-
-[module]
+baseURL = "/"
+description = "A blog dedicated to available data on the Portuguese economy"
+languageCode = "en-us"
+title = "Portuguese Economy Data Report"
 [[module.imports]]
 disable = false
 path = "github.com/porteconj/pej_blog_theme"
-
-
 [[module.mounts]]
 source = "assets"
 target = "assets"
-
 [[module.mounts]]
 source = "layouts"
 target = "layouts"
-
-
-
-[outputFormats]
 [outputFormats.HTML]
 mediaType = "text/html"
 [outputFormats.card]
 mediaType = "text/html"
 path = "card"
 permalinkable = true
-
 [outputs]
-  home = ["HTML", "json"]
-  page = ["HTML", "card"]
+home = ["HTML", "json"]
+page = ["HTML", "card"]
+[params]
+analyticsID = "UA-81134426-3"
+cloudinaryPath = "research_report"
+cloudinaryURL = "https://res.cloudinary.com/portuguese-economic-journal/image/upload"
+footerText = "This blog is an initiative of the Portuguese Economic Journal. The forum runs independently from the Portuguese Economic Journal (PEJ), and posts published on the blog have no obligation or right towards the journal. The forum is not affiliated with any religion, political parties and ideologies. Participants are responsible for opinions expressed therein."
+netlifyFetch = "https://pedr-analytics.netlify.app/.netlify/functions/fetch"
+seoImage = "https://res.cloudinary.com/portuguese-economic-journal/image/upload/v1590755795/pedr_ograph_rp6oqk.png"
+seoImagePath = "https://pedr-preview.netlify.app/img/"
+sitename = "Portuguese Economy Data Report"
+twitter = "@porteconj"
+[permalinks]
+canonifyURLs = true
+enableGitInfo = true
+enableRobotsTXT = true
+posts = "/:year/:month/:title/"
