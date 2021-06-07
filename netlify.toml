@@ -3,9 +3,16 @@ publish = "public"
 command = "hugo mod get -u && hugo --baseURL $URL --gc"
 
 [context.production.environment]
-HUGO_VERSION = "0.75.1"
+HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
-GO_VERSION = "1.14"
+GO_VERSION = "1.15"
+NODE_VERSION = "12.20.0"
+
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.80.0"
+GO_VERSION = "1.15"
+NODE_VERSION = "12.20.0"
 
 
 [[plugins]]
