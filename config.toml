@@ -3,6 +3,9 @@ baseURL = "/"
 description = "A blog dedicated to available data on the Portuguese economy"
 languageCode = "en-us"
 title = "Portuguese Economy Data Report"
+
+[build]
+writeStats = true
  [module]
 [[module.imports]]
 disable = false
