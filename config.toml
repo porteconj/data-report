@@ -3,6 +3,7 @@ baseURL = "/"
 description = "A blog dedicated to available data on the Portuguese economy"
 languageCode = "en-us"
 title = "Portuguese Economy Data Report"
+ [module]
 [[module.imports]]
 disable = false
 path = "github.com/porteconj/pej_blog_theme"
